@@ -1,4 +1,4 @@
-#include "Koichi_Nakata_FuelGauge.h"
+#include "FuelGauge.h"
 #include <iostream>
 #include <stdexcept>
 #include <string>
