@@ -1,5 +1,5 @@
-#include "Koichi_Nakata_FuelGauge.h"
-#include "Koichi_Nakata_Odometer.h"
+#include "FuelGauge.h"
+#include "Odometer.h"
 #include <iostream>
 #include <string>
 using namespace std;
