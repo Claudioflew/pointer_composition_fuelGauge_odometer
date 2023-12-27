@@ -1,5 +1,5 @@
-#ifndef KOICHI_NAKATA_ODOMETER
-#define KOICHI_NAKATA_ODOMETER
+#ifndef ODOMETER_H
+#define ODOMETER_H
 
 #include "Koichi_Nakata_FuelGauge.h"
 
