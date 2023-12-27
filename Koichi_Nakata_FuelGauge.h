@@ -1,5 +1,5 @@
-#ifndef KOICHI_NAKATA_FUELGAUGE
-#define KOICHI_NAKATA_FUELGAUGE
+#ifndef FUELGAUGE_H
+#define FUELGAUGE_H
 
 class FuelGauge {
 public:
